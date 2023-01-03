@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lakshay Tyagi
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lakshay
+last_name: Tyagi
 
 # Status emoji
 status:
