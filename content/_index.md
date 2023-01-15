@@ -83,7 +83,7 @@ sections:
           date_end: '2018-07-22'
           description: |2-
           * Worked with a team of five members on developing a Web-App for taking attendance using facial recognition
-          * Implemented real-time facial recognition using Microsoft Azure's Face API and OpenCV
+          * Implemented real-time facial recognition using Microsoft Azure Face API and OpenCV
           * Developed a portal with a relational database for registration and viewing attendance using Django and added email support for notifications
     design:
       columns: '2'
