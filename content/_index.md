@@ -26,13 +26,13 @@ sections:
           icon: bars
           icon_pack: fas
         - name: Machine Learning
-          icon: brain-circuit
+          icon: robot
           icon_pack: fas
         - name: Computer Science
           icon: computer
           icon_pack: fas
         - name: Statistics
-          icon: computer
+          icon: chart-simple
           icon_pack: fas
   - block: experience
     content:
