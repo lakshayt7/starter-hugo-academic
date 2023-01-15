@@ -19,21 +19,27 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
+          description: 9/10
         - name: C++
           icon: code
           icon_pack: fas
+          description: 8/10
         - name: SQL
           icon: bars
           icon_pack: fas
+          description: 8/10
         - name: Machine Learning
           icon: robot
           icon_pack: fas
+          description: 10/10
         - name: Computer Science
           icon: computer
           icon_pack: fas
+          description: 9/10
         - name: Statistics
           icon: chart-simple
           icon_pack: fas
+          description: 8/10
   - block: experience
     content:
       title: Experience
