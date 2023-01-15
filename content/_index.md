@@ -18,13 +18,13 @@ sections:
       items:
         - name: Python
           icon: python
-          icon_pack: fab
+          icon_pack: fas
         - name: C++
           icon: code
-          icon_pack: fab
+          icon_pack: fas
         - name: Machine Learning
           icon: microchip-ai
-          icon_pack: fab
+          icon_pack: fas
         - name: Computer Science
           icon: computer
           icon_pack: fas
