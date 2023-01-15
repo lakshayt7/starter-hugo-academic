@@ -19,6 +19,9 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
+        - name: C++
+          icon: code
+          icon_pack: fab
         - name: Machine Learning
           icon: microchip-ai
           icon_pack: fab
