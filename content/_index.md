@@ -210,7 +210,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Find my email and phone number below or send me a message using the below text box
       # Contact (add or remove contact options as necessary)
       email: lt2504@nyu.edu
       phone: 5513447010
