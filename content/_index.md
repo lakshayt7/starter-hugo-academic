@@ -52,19 +52,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Internship
+          company: University of Calgary, Mitacs Globalink 
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Calgary, Canada
+          date_start: '2021-05-13'
+          date_end: '2021-08-10'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+            * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
+            * Achieved a Dice Similarity Coefficient of 0.674 for federated model by utilizing novel aggregation functions and variable local training which is comparable to the performance of a central model trained on pooled data 
+         
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
