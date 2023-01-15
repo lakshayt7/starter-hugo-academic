@@ -70,9 +70,9 @@ sections:
           location: Bangalore, India
           date_start: '2020-05-15'
           date_end: '2020-07-22'
-          description: 
-         * Implemented Kernel Prediction Network, an Autoencoder-based architecture in TensorFlow and tested its performance for video denoising 
-         * Achieved State of the Art SSIM of 0.89 and PSNR of 30.14 on Samsung Burst Image Dataset - a dataset consisting of noisy videos by introducing the use of perceptual loss and four-channel bayer images instead of three-channel RGB 
+          description: |2-
+            * Implemented Kernel Prediction Network, an Autoencoder-based architecture in TensorFlow and tested its performance for video denoising 
+            * Achieved State of the Art SSIM of 0.89 and PSNR of 30.14 on Samsung Burst Image Dataset - a dataset consisting of noisy videos by introducing the use of perceptual loss and four-channel bayer images instead of three-channel RGB 
 
         - title: Software Development Intern
           company: IITK Summer of Code
@@ -81,10 +81,10 @@ sections:
           location: Kanpur, India
           date_start: '2018-05-15'
           date_end: '2018-07-22'
-          description: 
-          * Worked with a team of five members on developing a Web-App for taking attendance using facial recognition
-          * Implemented real-time facial recognition using Microsoft Azure Face API and OpenCV
-          * Developed a portal with a relational database for registration and viewing attendance using Django and added email support for notifications
+          description: |2-
+            * Worked with a team of five members on developing a Web-App for taking attendance using facial recognition
+            * Implemented real-time facial recognition using Microsoft Azure Face API and OpenCV
+            * Developed a portal with a relational database for registration and viewing attendance using Django and added email support for notifications
     design:
       columns: '2'
   - block: accomplishments
