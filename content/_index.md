@@ -18,7 +18,7 @@ sections:
       items:
         - name: Python
           icon: python
-          icon_pack: fas
+          icon_pack: fab
         - name: C++
           icon: code
           icon_pack: fas
