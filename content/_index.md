@@ -55,22 +55,36 @@ sections:
         - title: Research Internship
           company: University of Calgary, Mitacs Globalink 
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Calgary, Canada
           date_start: '2021-05-13'
           date_end: '2021-08-10'
           description: |2-
             * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
-            * Achieved a Dice Similarity Coefficient of 0.674 for federated model by utilizing novel aggregation functions and variable local training which is comparable to the performance of a central model trained on pooled data 
+            * {Achieved a Dice Similarity Coefficient of 0.674 for a federated model by utilizing novel aggregation functions and variable local training implemented in PyTorch, which is comparable to the performance of a central model trained on pooled data
          
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Machine Learning Intern
+          company: Samsung Research Institute Bangalore
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Bangalore, India
+          date_start: '2020-05-15'
+          date_end: '2020-07-22'
+          description: |2-
+         * Implemented Kernel Prediction Network, an Autoencoder-based architecture in TensorFlow and tested its performance for video denoising 
+         * Achieved State of the Art SSIM of 0.89 and PSNR of 30.14 on Samsung Burst Image Dataset - a dataset consisting of noisy videos by introducing the use of perceptual loss and four-channel bayer images instead of three-channel RGB 
+
+        - title: Software Development Intern
+          company: IITK Summer of Code
+          company_url: ''
+          company_logo: 
+          location: Kanpur, India
+          date_start: '2018-05-15'
+          date_end: '2018-07-22'
+          description: |2-
+          * Worked with a team of five members on developing a Web-App for taking attendance using facial recognition
+          * Implemented real-time facial recognition using Microsoft Azure's Face API and OpenCV
+          * Developed a portal with a relational database for registration and viewing attendance using Django and added email support for notifications
     design:
       columns: '2'
   - block: accomplishments
