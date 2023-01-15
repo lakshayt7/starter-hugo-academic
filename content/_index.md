@@ -23,7 +23,7 @@ sections:
           icon: code
           icon_pack: fas
         - name: SQL
-          icon: code
+          icon: bars
           icon_pack: fas
         - name: Machine Learning
           icon: brain-circuit
