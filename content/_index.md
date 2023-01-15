@@ -20,7 +20,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Machine Learning
-          icon: user-robot
+          icon: microchip-ai
           icon_pack: fas
         - name: Computer Science
           icon: computer
