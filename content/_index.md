@@ -31,6 +31,9 @@ sections:
         - name: Computer Science
           icon: computer
           icon_pack: fas
+        - name: Statistics
+          icon: computer
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
