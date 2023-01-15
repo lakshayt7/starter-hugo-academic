@@ -22,8 +22,11 @@ sections:
         - name: C++
           icon: code
           icon_pack: fas
+        - name: SQL
+          icon: code
+          icon_pack: fas
         - name: Machine Learning
-          icon: microchip-ai
+          icon: brain-circuit
           icon_pack: fas
         - name: Computer Science
           icon: computer
