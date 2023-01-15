@@ -17,16 +17,13 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: 90%
           icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Machine Learning
+          icon: user-robot
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Computer Science
+          icon: computer
           icon_pack: fas
   - block: experience
     content:
