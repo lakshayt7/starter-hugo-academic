@@ -21,7 +21,7 @@ sections:
           icon_pack: fab
         - name: Machine Learning
           icon: microchip-ai
-          icon_pack: fas
+          icon_pack: fab
         - name: Computer Science
           icon: computer
           icon_pack: fas
