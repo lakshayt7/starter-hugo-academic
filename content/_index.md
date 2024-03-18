@@ -62,6 +62,16 @@ sections:
           description: |2-
             * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
             * {Achieved a Dice Similarity Coefficient of 0.674 for a federated model by utilizing novel aggregation functions and variable local training implemented in PyTorch, which is comparable to the performance of a central model trained on pooled data
+        - title: Research Internship
+          company: University of Calgary, Mitacs Globalink 
+          company_url: ''
+          company_logo: 
+          location: Calgary, Canada
+          date_start: '2021-05-13'
+          date_end: '2021-08-10'
+          description: |2-
+            * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
+            * {Achieved a Dice Similarity Coefficient of 0.674 for a federated model by utilizing novel aggregation functions and variable local training implemented in PyTorch, which is comparable to the performance of a central model trained on pooled data
          
         - title: Machine Learning Intern
           company: Samsung Research Institute Bangalore
