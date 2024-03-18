@@ -60,7 +60,7 @@ sections:
           company_logo:
           location: NY, NY
           date_start: '2023-03-15'
-          date_end: 'Present'
+          date_end: '2024-03-15'
           description: |2-
             * Developed Large Language Model (LLM) solutions for labeling medical reports with labels along with explanations
             * Trained LLAMA-2 using LORA with distributed GPU training in PyTorch to improve Macro F1 score to 0.89
