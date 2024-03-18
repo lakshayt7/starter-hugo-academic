@@ -52,6 +52,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+       - title: Research Assisstant
+         company: NYU Langone
+         company_url: ''
+         company_logo:
+         location: NY, NY
+         date_start: '2023-03-15'
+         date_end: 'Present'
+         description: |2-
+           * Developed Large Language Model (LLM) solutions for labeling medical reports with labels along with explanations
+           * Trained LLAMA-2 using LORA with distributed GPU training in PyTorch to improve Macro F1 score to 0.89
+       - title: Data Science Intern
+         company: Bayer US LLC
+         company_url: ''
+         company_logo:
+         location: Whipanny, NJ
+         date_start: '2023-06-15'
+         date_end: '2022-09-1'
+         description: |2-
+           * Developed time series pipelines in Databricks for predicting sales growth, pulling data from Snowflake with SQL * Trained Random Forest, XGBoost, LSTM (RNN) models to reduce MAPE to 0.1 on backtests and holdout
+
         - title: Research Internship
           company: University of Calgary, Mitacs Globalink 
           company_url: ''
@@ -60,18 +80,8 @@ sections:
           date_start: '2021-05-13'
           date_end: '2021-08-10'
           description: |2-
-            * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
-            * {Achieved a Dice Similarity Coefficient of 0.674 for a federated model by utilizing novel aggregation functions and variable local training implemented in PyTorch, which is comparable to the performance of a central model trained on pooled data
-        - title: Research Internship
-          company: University of Calgary, Mitacs Globalink 
-          company_url: ''
-          company_logo: 
-          location: Calgary, Canada
-          date_start: '2021-05-13'
-          date_end: '2021-08-10'
-          description: |2-
-            * Parallelized the training of federated models on the Compute Canada cluster for a threefold speedup
-            * {Achieved a Dice Similarity Coefficient of 0.674 for a federated model by utilizing novel aggregation functions and variable local training implemented in PyTorch, which is comparable to the performance of a central model trained on pooled data
+            *  Set up distributed training framework for UNet-based federated learning models in brain tumor segmentation
+            * Achieved Dice Similarity Coefficient of 0.674 using variable local tuning of client parameters implemented in PyTorch
          
         - title: Machine Learning Intern
           company: Samsung Research Institute Bangalore
@@ -81,8 +91,8 @@ sections:
           date_start: '2020-05-15'
           date_end: '2020-07-22'
           description: |2-
-            * Implemented Kernel Prediction Network, an Autoencoder-based architecture in TensorFlow and tested its performance for video denoising 
-            * Achieved State of the Art SSIM of 0.89 and PSNR of 30.14 on Samsung Burst Image Dataset - a dataset consisting of noisy videos by introducing the use of perceptual loss and four-channel bayer images instead of three-channel RGB 
+            * Implemented Autoencoder-based deep learning models in TensorFlow for denoising grainy, low-light videos
+            * Achieved State of the Art SSIM of 0.89 and PSNR of 30.14 in high-quality video generation using perceptual loss
 
         - title: Software Development Intern
           company: IITK Summer of Code
