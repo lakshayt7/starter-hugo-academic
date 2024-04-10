@@ -37,6 +37,17 @@ sections:
             * Developed Large Language Model (LLM) solutions for labeling medical reports with labels along with explanations
             * Trained LLAMA-2 using LORA with distributed GPU training in PyTorch to improve Macro F1 score to 0.89
 
+        - title: Data Science Intern
+          company: Bayer US LLC
+          company_url: ''
+          company_logo: bayer
+          location: Whipanny, NJ
+          date_start: '2023-06-12'
+          date_end: '2024-09-01'
+          description: |2-
+            * Trained and deployed time series forecasting models for predicting dollar sales worth more than 100 Million $
+            * Developed hierarchical time series models with anomaly detection to model different category and brands of products
+
         - title: Research Internship
           company: University of Calgary, Mitacs Globalink 
           company_url: ''
