@@ -74,6 +74,22 @@ sections:
     design:
       columns: '2'
 
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+
+    design:
+      columns: '2'
+      view: compact
+
   - block: portfolio
     id: projects
     content:
@@ -104,21 +120,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
 
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
