@@ -45,7 +45,7 @@ sections:
           date_start: '2023-06-12'
           date_end: '2024-09-01'
           description: |2-
-            * Trained and deployed time series forecasting models for predicting dollar sales worth more than 100 million
+            * Trained and deployed time series forecasting models for predicting dollar sales worth more than 100 million in DataBricks and SnowFlake
             * Developed hierarchical time series models with anomaly detection to model dependency between different categories and brands of products
 
         - title: Research Internship
