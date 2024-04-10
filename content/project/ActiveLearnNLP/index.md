@@ -1,6 +1,6 @@
 ---
-title: Scalable Active Learning for NLP
-summary: Active Learning algorithms are often not compatible with recent advances in NLP. This project is an attempt to develop a scalable active learning algorithm that works with transformer based models and can be used for natural language processing
+title: Scalable Active Learning for Natural Language Processing
+summary: Active Learning algorithms are often not compatible with recent advances in NLP. This project is an attempt to develop a scalable active learning algorithm that works with transformer based models and can be used for natural language processing. We use GPT-4 as the oracle engine for generating labels for a mutliclass labelling problem to train a BERT model.
 tags:
   - Deep Learning
   - Natural Language Processing
