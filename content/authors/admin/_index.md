@@ -22,7 +22,7 @@ organizations:
     url: https://cims.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning, Artificial Intelligence and their applications to Natural Language Processing, Computer Vision, and Healthcare.
 
 # Interests to show in About widget
 interests:

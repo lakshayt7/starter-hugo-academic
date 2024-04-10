@@ -50,7 +50,7 @@ summary: Federated learning algorithms for brain tumor segmentation
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
