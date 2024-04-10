@@ -52,7 +52,7 @@ sections:
         - title: Machine Learning Intern
           company: Samsung Research Institute Bangalore
           company_url: ''
-          company_logo: 
+          company_logo: samsung
           location: Bangalore, India
           date_start: '2020-05-15'
           date_end: '2020-07-22'
