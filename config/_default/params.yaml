@@ -17,14 +17,14 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    org_name: 'NYU IITK'
+    description: 'Lakshay Tyagi'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'content/google0ebd8ef2cfb771d5.html'
     baidu: ''
 
 # Site header
