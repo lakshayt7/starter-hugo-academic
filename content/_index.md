@@ -29,7 +29,7 @@ sections:
         - title: Research Assisstant
           company: NYU Langone
           company_url: ''
-          company_logo: 
+          company_logo: nyu
           location: NY, NY
           date_start: '2023-03-15'
           date_end: '2024-03-15'
@@ -40,7 +40,7 @@ sections:
         - title: Research Internship
           company: University of Calgary, Mitacs Globalink 
           company_url: ''
-          company_logo: 
+          company_logo: mitacs
           location: Calgary, Canada
           date_start: '2021-05-13'
           date_end: '2021-08-10'
@@ -63,7 +63,7 @@ sections:
         - title: Software Development Intern
           company: IITK Summer of Code
           company_url: ''
-          company_logo: 
+          company_logo: indian-institute-of-technology-kanpur-iit-kanpur9273
           location: Kanpur, India
           date_start: '2018-05-15'
           date_end: '2018-07-22'
