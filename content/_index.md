@@ -12,34 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          icon: python
-          icon_pack: fab
-          description: 9/10
-        - name: C++
-          icon: code
-          icon_pack: fas
-          description: 8/10
-        - name: SQL
-          icon: bars
-          icon_pack: fas
-          description: 8/10
-        - name: Machine Learning
-          icon: robot
-          icon_pack: fas
-          description: 10/10
-        - name: Computer Science
-          icon: computer
-          icon_pack: fas
-          description: 9/10
-        - name: Statistics
-          icon: chart-simple
-          icon_pack: fas
-          description: 8/10
   - block: experience
     content:
       title: Experience
@@ -121,8 +93,10 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Natural Language Processing
+          tag: Natural Language Processing
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -141,27 +115,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+
     design:
       columns: '2'
       view: compact

@@ -1,10 +1,10 @@
 ---
-title: Generate efficient comparison of two documents
+title: Efficient vectorized GPT document comparison 
 summary: Context length of GPT model prevents the passing of two large documents directly to the API. Furthermore, reducing the number of calls and the tokens per call can save money. In this small project, I use semantic similarity to reduce the number of calls and tokens per call.
 tags:
   - Deep Learning
   - Natural Language Processing
-date: '2016-04-27T00:00:00Z'
+date: '2024-03-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -55,7 +55,7 @@ Our design focuses on scalability and cost-efficiency. By employing semantic sea
 
 ## Pipeline Details
 
-1. **RAG-like Search:** Implement a Retrieval-Augmented Generation (RAG)-like search using the key considerations highlighted in the first document to identify similar text within the second document. The search employs the following models to generate embeddings, which are then compared using cosine similarity:
+1. **RAG-like Search:** Implement a Retrieval-Augmented Generation (RAG)-like search using the key considerations highlighted in the first document to identify similar text within the second document. The embedding comparison is optimized and vectorized using FAISS. The search employs the following models to generate embeddings, which are then compared using cosine similarity:
    - **TF-IDF (Term Frequency-Inverse Document Frequency):** A statistical measure used to evaluate the importance of a word in a document relative to a collection of documents or corpus.
    - **Sentence Embedding (BERT):** Utilizes a BERT (Bidirectional Encoder Representations from Transformers) model, specially pre-trained for generating sentence embeddings. This method effectively captures the semantic meaning of sentences.
 
