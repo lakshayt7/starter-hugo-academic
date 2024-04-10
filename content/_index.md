@@ -74,7 +74,7 @@ sections:
         - title: Software Development Intern
           company: IITK Summer of Code
           company_url: ''
-          company_logo: indian-institute-of-technology-kanpur-iit-kanpur9273
+          company_logo: redlogo-iitk
           location: Kanpur, India
           date_start: '2018-05-15'
           date_end: '2018-07-22'
