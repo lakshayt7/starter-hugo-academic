@@ -27,24 +27,7 @@ publication_types: ["2"]
 publication: "International MICCAI Brainlesion Workshop"
 publication_short: "MICCAI"
 
-abstract: The potential for deep learning to improve medical image analysis is
-often stymied by the difficulty in acquiring and collecting sufficient data to train
-models. One major barrier to data acquisition is the private and sensitive nature of
-the data in question, as concerns about patient privacy, among others, make data
-sharing between institutions difficult. Distributed learning avoids the need to share
-data centrally by training models locally. One approach to distributed learning is
-federated learning, where models are trained in parallel at local institutions and
-aggregated together into a global model. The 2021 Federated Tumor Segmentation (FeTS) challenge focuses on federated learning for brain tumor segmentation
-using magnetic resonance imaging scans collected from a real-world federation of
-collaborating institutions. We developed a federated training algorithm that uses
-a combination of variable local epochs in each federated round, a decaying learning rate, and an ensemble weight aggregation function. When testing on unseen
-validation data our model trained with federated learning achieves very similar
-performance (average DSC score of 0.674) to a central model trained on pooled
-data (average DSC score 0.685). When our federated learning algorithm was evaluated on unseen training and testing data, it achieved similar performances on the
-FeTS challenge leaderboards 1 and 2 (average DSC scores of 0.623 and 0.608,
-respectively). This federated learning algorithm offers an approach to training deep
-learning learning models without the need to share private and sensitive patient
-data.
+abstract: The potential for deep learning to improve medical image analysis is often stymied by the difficulty in acquiring and collecting sufficient data to train models. One major barrier to data acquisition is the private and sensitive nature of the data in question, as concerns about patient privacy, among others, make data sharing between institutions difficult. Distributed learning avoids the need to share data centrally by training models locally. One approach to distributed learning is federated learning, where models are trained in parallel at local institutions and aggregated together into a global model. The 2021 Federated Tumor Segmentation (FeTS) challenge focuses on federated learning for brain tumor segmentation using magnetic resonance imaging scans collected from a real-world federation of collaborating institutions. We developed a federated training algorithm that uses a combination of variable local epochs in each federated round, a decaying learning rate, and an ensemble weight aggregation function. When testing on unseen validation data our model trained with federated learning achieves very similar performance (average DSC score of 0.674) to a central model trained on pooled data (average DSC score 0.685). When our federated learning algorithm was evaluated on unseen training and testing data, it achieved similar performances on the FeTS challenge leaderboards 1 and 2 (average DSC scores of 0.623 and 0.608, respectively). This federated learning algorithm offers an approach to training deep learning learning models without the need to share private and sensitive patient data.
 
 # Summary. An optional shortened abstract.
 summary: Federated learning algorithms for brain tumor segmentation
