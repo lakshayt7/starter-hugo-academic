@@ -1,5 +1,6 @@
 ---
-title: "Adapative federated learning"
+title: 'Adapative federated learning'
+
 authors:
 - Anup Tuladhar
 - admin
@@ -24,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International MICCAI Brainlesion Workshop"
-publication_short: ""
+publication_short: "MICCAI"
 
 abstract: The potential for deep learning to improve medical image analysis is
 often stymied by the difficulty in acquiring and collecting sufficient data to train
@@ -48,14 +49,14 @@ data.
 # Summary. An optional shortened abstract.
 summary: Federated learning algorithms for brain tumor segmentation
 
-tags:
-- Source Themes
+tags: []
+
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_35
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-09002-8_35'
 url_code: 'https://github.com/lakshayt7/MIPLAB_FETS/'
 url_dataset: ''
 url_poster: ''
@@ -68,7 +69,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ""
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -84,3 +85,4 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 
+---
