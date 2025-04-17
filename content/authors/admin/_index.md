@@ -8,32 +8,27 @@ last_name: Tyagi
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Software Developer AI/ML @ Amazon Web Services
+role: Graduate Student @ CIMS, New York University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Amazon Q Business, Amazon Web Services
-    url: https://aws.amazon.com/q/business/
+  - name: CIMS, New York University
+    url: https://cims.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Q
-Business. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
-Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
+bio: My research interests include Deep Learning, Artificial Intelligence and their applications to Natural Language Processing, Computer Vision, and Healthcare.
 
 # Interests to show in About widget
 interests:
   - Machine Learning
   - Computer Vision
   - Natural Language Processing
-  - Large Language Models
-  - Databases
-  - ElasticSearch
 
 # Education to show in About widget
 education:
@@ -67,7 +62,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Resume_2025_Lakshay_Tyagi.pdf
+    link: uploads/Lakshay_Tyagi_NLP_NGV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
