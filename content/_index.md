@@ -28,7 +28,7 @@ sections:
         - title: Software Developer AI/ML
           company: Amazon Web Services
           company_url: ''
-          company_logo: nyu
+          company_logo: Amazon_Web_Services_Logo 
           location: NY, NY
           date_start: '2024-07-22'
           date_end: ''
