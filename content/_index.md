@@ -25,7 +25,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
        
-          
+         - title: Software Developer AI/ML
+          company: Amazon Web Services
+          company_url: ''
+          company_logo: nyu
+          location: NY, NY
+          date_start: '2024-07-22'
+          date_end: ''
+          description: |2-
+            * Designed query and storage capacity for vector databases optimized for Retrieval Augmented Generation (RAG) purposes
+            * Helped launch GenAI search index in Amazon Bedrock contributing to CRUD APIs in backend (Java) and frontend (TS)
+            * Optimized ElasticSearch clusters for enterprise search with reduction in latency by 47% and savings of >150,000$ per year
+            * Revamped CloudFormation CI/CD pipelines to reduce operations overhead by 23% and improve deployment frequency
+
         - title: Research Assisstant
           company: NYU Langone
           company_url: ''
