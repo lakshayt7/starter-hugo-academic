@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
        
-         - title: Software Developer AI/ML
+        - title: Software Developer AI/ML
           company: Amazon Web Services
           company_url: ''
           company_logo: nyu
