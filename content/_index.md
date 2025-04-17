@@ -31,7 +31,7 @@ sections:
           company_logo: Amazon_Web_Services_Logo
           location: NY, NY
           date_start: '2024-07-22'
-          date_end: '-'
+          date_end: ''
           description: |2-
             * Designed query and storage capacity for vector databases optimized for Retrieval Augmented Generation (RAG) purposes
             * Helped launch GenAI search index in Amazon Bedrock contributing to CRUD APIs in backend (Java) and frontend (TS) 
