@@ -138,7 +138,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: lt2504@nyu.edu
+      email: lakshay.tyagi.nyu@gmail.com
       phone: 5513447010
       autolink: true
       # Email form provider
