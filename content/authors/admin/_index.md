@@ -76,5 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-Lakshay Tyagi is a graduate student pursuing a Master's degree in Computer Science at the Courant Institute of Mathematical Sciences, New York University. His research interests include Machine Learning, Deep Learning and their applications to Computer Vision, Natural Language Processing and Medical Imaging.
+Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Q
+Business. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
+Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
 {style="text-align: justify;"}
