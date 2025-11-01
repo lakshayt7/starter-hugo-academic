@@ -74,3 +74,4 @@ highlight_name: true
 Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Q
 Business. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
 Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
+{style="text-align: justify;"}
