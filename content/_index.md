@@ -33,9 +33,9 @@ sections:
           date_start: '2024-07-22'
           date_end: ''
           description: |2-
-           * Designed Retrieval-Augmented Generation solutions with vector and hybrid search databases in Java, Python, and TypeScript
-           * Implemented agentic retrieval with inferred actions based on query leading to a 10% improvement in LLM response accuracy
-           * Built a performant MicroSoft Teams crawler interfacing with Azure APIs increasing throughput by 250% using caching 
+            * Designed Retrieval-Augmented Generation solutions with vector and hybrid search databases in Java, Python, and TypeScript
+            * Implemented agentic retrieval with inferred actions based on query leading to a 10% improvement in LLM response accuracy
+            * Built a performant MicroSoft Teams crawler interfacing with Azure APIs increasing throughput by 250% using caching 
             * Optimized ElasticSearch clusters for enterprise search with reduction in latency by 47% and savings of >150,000$ per year
             * Revamped CloudFormation CI/CD pipelines to reduce operations overhead by 23% and improve deployment frequency
 
