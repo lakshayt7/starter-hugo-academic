@@ -14,21 +14,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Developer AI/ML @ Amazon Q Business, Amazon Web Services
+role: Software Developer AI/ML, Amazon Web Services
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Amazon Q Business, Amazon Web Services
-    url: https://aws.amazon.com/q/business/
+  - name: Amazon Web Services
+    url: https://aws.amazon.com/bedrock/knowledge-bases/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer and Research Engineer building cutting-edge AI solutions at Amazon Q. My work revolves around building Search, Large Language Model (LLM), Computer Vision, Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
+bio: Software Developer and Research Engineer building cutting-edge AI solutions at Amazon Bedrock Knowledge Bases. My work revolves around building Search, Large Language Model (LLM), Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
 
 # Interests to show in About widget
 interests:
   - Machine Learning
   - Computer Vision
   - Natural Language Processing
+  - Retrieval Augment Generation
+  - Distributed Search
 
 # Education to show in About widget
 education:
@@ -71,7 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Q
-Business. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
+Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Bedrock Knowledge Bases. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
 Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
-{style="text-align: justify;"}
+{style="text-align: center;"}
