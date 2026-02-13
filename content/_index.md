@@ -34,6 +34,8 @@ sections:
           date_end: ''
           description: |2-
             * Designed Retrieval-Augmented Generation solutions with vector and hybrid search databases in Java, Python, and TypeScript
+            * Integrated Bedrock Knowledge Bases with customer-provided reranking models, improving the accuracy of retrieval by 20%
+            * Optimized retrieval for hierarchical chunking, storing text in NoSQL databases, reducing latency by 200 ms
             * Implemented agentic retrieval with inferred actions based on query leading to a 10% improvement in LLM response accuracy
             * Built a performant MicroSoft Teams crawler interfacing with Azure APIs increasing throughput by 250% using caching 
             * Optimized ElasticSearch clusters for enterprise search with reduction in latency by 47% and savings of >150,000$ per year
