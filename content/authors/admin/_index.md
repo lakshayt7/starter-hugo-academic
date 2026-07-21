@@ -22,7 +22,7 @@ organizations:
     url: https://aws.amazon.com/bedrock/knowledge-bases/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer and Research Engineer building cutting-edge AI solutions at Amazon Bedrock Knowledge Bases. My work revolves around building Search, Large Language Model (LLM), Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
+bio: Software Developer and Research Engineer building cutting-edge AI solutions at Amazon Web Services. My work revolves around Search, Large Language Model (LLM) inference with vLLM and TEI, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
 
 # Interests to show in About widget
 interests:
@@ -74,5 +74,5 @@ highlight_name: true
 ---
 
 Software Developer and Research Engineer building cutting-edge AI/ML solutions at Amazon Bedrock Knowledge Bases. My work revolves around building Search, Large Language Model (LLM), Computer Vision,
-Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
+Machine Learning, LLM inference with vLLM and TEI, Retrieval-Augmented Generation (RAG), and Distributed Database Solutions
 {style="text-align: center;"}
