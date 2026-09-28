@@ -22,7 +22,7 @@ organizations:
     url: https://aws.amazon.com/bedrock/knowledge-bases/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer and Research Engineer building reliable AI systems at Amazon Web Services. My work focuses on LLM inference infrastructure with vLLM and TEI, secure agentic multi-agent workflow sandboxing, Retrieval-Augmented Generation (RAG), and distributed systems
+bio: Software Developer at Amazon Web Services building cutting-edge AI/ML solutions as part of Agentic AI @ AWS. My work revolves around Large Language Models (LLMs), Artificial Intelligence, Retrieval-Augmented Generation (RAG), LLM inference with vLLM and TEI, and petabyte-scale search systems that power intelligent applications.
 
 # Interests to show in About widget
 interests:
@@ -34,6 +34,7 @@ interests:
   - LLM Inference
   - Agentic AI and Multi-Agent Workflows
   - Secure Workflow Sandboxing
+  - Petabyte-Scale Search
 
 # Education to show in About widget
 education:
@@ -76,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Software Developer and Research Engineer building reliable AI/ML solutions at Amazon Web Services. My work focuses on LLM inference with vLLM and TEI, secure agentic multi-agent workflow sandboxing, search, Retrieval-Augmented Generation (RAG), and distributed systems.
+I’m a Software Developer at Amazon Web Services, building cutting-edge AI/ML solutions as part of Agentic AI @ AWS. My work revolves around Large Language Models (LLMs), Artificial Intelligence, Retrieval-Augmented Generation (RAG), LLM inference with vLLM and TEI, and petabyte-scale search systems that power intelligent applications.
 {style="text-align: center;"}
